@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "Hi" << endl; // prints Hi
+	cout << "Hello World" << endl; // prints Hi
 	return 0;
 }
